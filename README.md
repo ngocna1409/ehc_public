@@ -16,7 +16,7 @@ Ngoài ra nếu bạn có tệp `ListSettings.xml`, vui lòng cũng đặt tại
 
 Nếu không có những tệp ở trên. Bạn sẽ cần phải đợi ứng dụng khởi động lên và nhập bằng tay chứng danh cơ sở dữ liệu.
 
-Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#tham%20kh%E1%BA%A3o%20m%E1%BB%A5c-,C%C3%A0i%20%C4%91%E1%BA%B7t%20.NET%20Framework,-.).
+Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#b%E1%BA%ADt-net-framework).
 
 ## Cài đặt .NET Framework
 
@@ -24,7 +24,7 @@ Cài đặt **.NET Framework 4.8** trực tuyến tại [đây](https://go.micro
 
 Nếu bạn đang gặp vấn đề về **Chứng chỉ** khi cài đặt .NET Framework, vui lòng cập nhật [**Cập nhật chứng chỉ gốc đáng tin cậy Microsoft 2014**](https://support.microsoft.com/vi-vn/topic/support-for-urgent-trusted-root-updates-for-windows-root-certificate-program-in-windows-a4ac4d6c-7c62-3b6e-dfd2-377982bf3ea5).
 
-Nếu bạn là người dùng **Windows 8.0** trở lên, vui lòng xem mục [Bật .NET Framework](#l%C3%B2ng%20xem%20m%E1%BB%A5c-,B%E1%BA%ADt%20.NET%20Framework,-.).
+Nếu bạn là người dùng **Windows 8.0** trở lên, vui lòng xem mục [Bật .NET Framework](#b%E1%BA%ADt-net-framework).
 
 ## Bật .NET Framework
 
