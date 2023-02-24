@@ -10,7 +10,7 @@ _**Quan trọng:** Để chương trình chạy tốt nhất mà không có lỗ
 
 ## Sau khi giải nén phần mềm
 
-Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: ```%SystemDrive%\ehcHIS\Data\Settings.xml```
+Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: `%UserProfile%\Desktop\ehcHIS\Data\Settings.xml`
 
 Ngoài ra nếu bạn có tệp `ListSettings.xml`, vui lòng cũng đặt tại thư mục `Data` được đề cập ở trên.
 
