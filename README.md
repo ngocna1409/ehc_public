@@ -16,7 +16,7 @@ Ngoài ra nếu bạn có tệp `ListSettings.xml`, vui lòng cũng đặt tại
 
 Nếu không có những tệp ở trên. Bạn sẽ cần phải đợi ứng dụng khởi động lên và nhập bằng tay chứng danh cơ sở dữ liệu.
 
-Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#b%E1%BA%ADt-net-framework).
+Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#cài-đặt-net-framework).
 
 ## Cài đặt .NET Framework
 
