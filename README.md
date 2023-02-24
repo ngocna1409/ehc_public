@@ -20,7 +20,7 @@ Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .
 
 ## Cài đặt .NET Framework
 
-Cài đặt **.NET Framework 4.8** trực tuyến tại [đây](https://go.microsoft.com/fwlink/?LinkId=2085155), chỉ cài đặt nếu bạn đang sử dụng **Windows 7 với Gọi dịch vụ 1**.
+Cài đặt **.NET Framework 4.8** trực tuyến tại [đây](https://go.microsoft.com/fwlink/?LinkId=2085155), chỉ cài đặt nếu bạn đang sử dụng **Windows 7 với Gói dịch vụ 1**.
 
 Nếu bạn đang gặp vấn đề về **Chứng chỉ** khi cài đặt .NET Framework, vui lòng cập nhật [**Cập nhật chứng chỉ gốc đáng tin cậy Microsoft 2014**](https://support.microsoft.com/vi-vn/topic/support-for-urgent-trusted-root-updates-for-windows-root-certificate-program-in-windows-a4ac4d6c-7c62-3b6e-dfd2-377982bf3ea5).
 
