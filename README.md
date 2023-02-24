@@ -1,9 +1,14 @@
-# Yêu cầu phần mềm
-- **Khung dịch vụ .NET (.NET Framework)** _phiên bản 4.6 trở lên._
-- **Visual Studio C++ 2010 Runtime** _(Bản phân phối lại)._
-- **Hệ điều hành Windows 7 với Gói dịch vụ 1** trở lên. Hệ điều hành Windows 7 không có gói dịch vụ sẽ cần **phải** thực hiện việc [_**nâng cấp lên gói dịch vụ 1**_](https://support.microsoft.com/vi-vn/topic/information-about-service-pack-1-for-windows-7-and-for-windows-server-2008-r2-df044624-55b8-3a97-de80-5d99cb689063).
+# ehcHIS
+Đây là repo public của chương trình ehcHIS.
+Bạn có thể bắt đầu xem hướng dẫn tại đây.
 
-# Sau khi giải nén phần mềm
+## Yêu cầu hệ thống
+- [**Khung dịch vụ .NET (.NET Framework)**](https://go.microsoft.com/fwlink/?LinkId=2085155) _phiên bản 4.6 trở lên, ưu tiên 4.8._
+- [**Visual Studio C++ 2010 Runtime**](https://www.microsoft.com/en-us/download/details.aspx?id=26999) _(Bản phân phối lại với Gói dịch vụ 1 với Cập nhật bảo mật MFC)._
+- **Hệ điều hành Windows 7 với Gói dịch vụ 1** trở lên. Hệ điều hành Windows 7 không có gói dịch vụ sẽ cần **phải** thực hiện việc [_**nâng cấp lên gói dịch vụ 1**_](https://support.microsoft.com/vi-vn/topic/information-about-service-pack-1-for-windows-7-and-for-windows-server-2008-r2-df044624-55b8-3a97-de80-5d99cb689063).
+_**Quan trọng:** Để chương trình chạy tốt nhất mà không có lỗi vặt liên quan đến in ấn, hoặc sử dụng đến module ngoài, vui lòng cài đặt **_Visual Studio C++ Runtime 2010_**._
+
+## Sau khi giải nén phần mềm
 
 Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: ```%SystemDrive%\ehcHIS\Data\Settings.xml```
 
@@ -11,11 +16,13 @@ Ngoài ra nếu bạn có tệp `ListSettings.xml`, vui lòng cũng đặt tại
 
 Nếu không có những tệp ở trên. Bạn sẽ cần phải đợi ứng dụng khởi động lên và nhập bằng tay chứng danh cơ sở dữ liệu.
 
-Nếu chương trình chưa chạy, hãy tham khảo mục [Cài đặt .NET Framework](#tham%20kh%E1%BA%A3o%20m%E1%BB%A5c-,C%C3%A0i%20%C4%91%E1%BA%B7t%20.NET%20Framework,-.).
+Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#tham%20kh%E1%BA%A3o%20m%E1%BB%A5c-,C%C3%A0i%20%C4%91%E1%BA%B7t%20.NET%20Framework,-.).
 
 ## Cài đặt .NET Framework
 
 Cài đặt **.NET Framework 4.8** trực tuyến tại [đây](https://go.microsoft.com/fwlink/?LinkId=2085155), chỉ cài đặt nếu bạn đang sử dụng **Windows 7 với Gọi dịch vụ 1**.
+
+Nếu bạn đang gặp vấn đề về **Chứng chỉ** khi cài đặt .NET Framework, vui lòng cập nhật [**Cập nhật chứng chỉ gốc đáng tin cậy Microsoft 2014**](https://support.microsoft.com/vi-vn/topic/support-for-urgent-trusted-root-updates-for-windows-root-certificate-program-in-windows-a4ac4d6c-7c62-3b6e-dfd2-377982bf3ea5).
 
 Nếu bạn là người dùng **Windows 8.0** trở lên, vui lòng xem mục [Bật .NET Framework](#l%C3%B2ng%20xem%20m%E1%BB%A5c-,B%E1%BA%ADt%20.NET%20Framework,-.).
 
