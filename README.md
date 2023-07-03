@@ -11,7 +11,7 @@ _**Quan trọng:** Để chương trình chạy tốt nhất mà không có lỗ
 
 ## Sau khi giải nén phần mềm
 
-* Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: `%LocalAppData%\ehcHIS\Data\Settings.xml`
+* Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: `%ProgramFiles(x86)%\ehcHIS\Data\Settings.xml`. Thay bằng `%ProgramFiles%` nếu bạn đang sử dụng kiến trúc 32 bit.
 * Ngoài ra nếu bạn có tệp `ListSettings.xml`, vui lòng cũng đặt tại thư mục `Data` được đề cập ở trên.
 * Nếu không có những tệp ở trên. Bạn sẽ cần phải đợi ứng dụng khởi động lên và nhập bằng tay chứng danh cơ sở dữ liệu.
 * Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#cài_đặt_net_framework).
