@@ -5,13 +5,13 @@
 ## Yêu cầu hệ thống
 * [**Khung dịch vụ .NET (.NET Framework)**](https://go.microsoft.com/fwlink/?LinkId=2085155) phiên bản 4.8.
 * [**Visual Studio C++ 2010 Runtime**](https://www.microsoft.com/en_us/download/details.aspx?id=26999) (Bản phân phối lại với Gói dịch vụ 1 với Cập nhật bảo mật MFC).
-* **Hệ điều hành Windows 7 với Gói dịch vụ 1** trở lên. Hệ điều hành Windows 7 không có gói dịch vụ sẽ cần **phải** thực hiện việc [**nâng cấp lên gói dịch vụ 1**](https://support.microsoft.com/vi_vn/topic/information_about_service_pack_1_for_windows_7_and_for_windows_server*_2008_r2_df044624_55b8_3a97_de80_5d99cb689063).
+* **Hệ điều hành Windows 7 với Gói dịch vụ 1** trở lên. Nếu chưa có, [**nâng cấp lên gói dịch vụ 1**](https://support.microsoft.com/vi_vn/topic/information_about_service_pack_1_for_windows_7_and_for_windows_server*_2008_r2_df044624_55b8_3a97_de80_5d99cb689063).
 
-_**Quan trọng:** Để chương trình chạy tốt nhất mà không có lỗi vặt liên quan đến in ấn, hoặc sử dụng đến module ngoài, vui lòng cài đặt **_Visual Studio C++ Runtime 2010_**._
+**Quan trọng:** Để chương trình chạy tốt nhất mà không có lỗi vặt liên quan đến in ấn, hoặc sử dụng đến module ngoài, vui lòng cài đặt [**Visual Studio C++ 2010 Runtime**](https://www.microsoft.com/en_us/download/details.aspx?id=26999).
 
 ## Sau khi giải nén phần mềm
 
-* Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: `%ProgramFiles(x86)%\ehcHIS\Data\Settings.xml`. Thay bằng `%ProgramFiles%` nếu bạn đang sử dụng kiến trúc 32 bit.
+* Vui lòng tải xuống cấu hình của Bệnh viện và đặt trong thư mục: `%LocalAppData%\Programs\ehcHIS\Data\Settings.xml`.
 * Ngoài ra nếu bạn có tệp `ListSettings.xml`, vui lòng cũng đặt tại thư mục `Data` được đề cập ở trên.
 * Nếu không có những tệp ở trên. Bạn sẽ cần phải đợi ứng dụng khởi động lên và nhập bằng tay chứng danh cơ sở dữ liệu.
 * Nếu chương trình chưa chạy, cài đặt tham khảo mục [Cài đặt .NET Framework](#cài_đặt_net_framework).
