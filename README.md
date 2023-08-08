@@ -5,7 +5,7 @@
 ## Yêu cầu hệ thống
 * [**Khung dịch vụ .NET (.NET Framework)**](https://go.microsoft.com/fwlink/?LinkId=2085155) phiên bản 4.8.
 * [**Visual Studio C++ 2010 Runtime**](https://www.microsoft.com/en-US/download/details.aspx?id=26999) (Bản phân phối lại với Gói dịch vụ 1 với Cập nhật bảo mật MFC).
-* **Hệ điều hành Windows 7 với Gói dịch vụ 1** trở lên. Nếu chưa có, [**nâng cấp lên gói dịch vụ 1**](https://support.microsoft.com/vi_vn/topic/information_about_service_pack_1_for_windows_7_and_for_windows_server_2008_r2_df044624_55b8_3a97_de80_5d99cb689063).
+* **Hệ điều hành Windows 7 với Gói dịch vụ 1** trở lên. Nếu chưa có, [**nâng cấp lên gói dịch vụ 1**](https://support.microsoft.com/vi-vn/topic/th%C3%B4ng-tin-v%E1%BB%81-g%C3%B3i-d%E1%BB%8Bch-v%E1%BB%A5-1-d%C3%A0nh-cho-windows-7-v%C3%A0-d%C3%A0nh-cho-windows-server-2008-r2-df044624-55b8-3a97-de80-5d99cb689063).
 
 **Quan trọng:** Để chương trình chạy tốt nhất mà không có lỗi vặt liên quan đến in ấn, hoặc sử dụng đến module ngoài, vui lòng cài đặt [**Visual Studio C++ 2010 Runtime**](https://www.microsoft.com/en-US/download/details.aspx?id=26999).
 
