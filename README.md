@@ -14,10 +14,9 @@
 
 ## Cài đặt .NET Framework
 
-* Cài đặt **.NET Framework 4.8** tại [đây](https://go.microsoft.com/fwlink/?LinkId=2085155) (Trực tuyến) và [đây](https://go.microsoft.com/fwlink/?linkid=2088631) (Ngoại tuyến), chỉ cài đặt nếu bạn đang sử dụng **Windows 7 (Gói Dịch vụ 1) & Windows 8.1 với Cập nhật 1 trở lên**.
-* Tìm hiểu thêm tại [đây](https://support.microsoft.com/vi-vn/topic/microsoft-net-framework-4-8-gi%C3%A1n-tuy%E1%BA%BFn-c%C3%A0i-%C4%91%E1%BA%B7t-cho-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0).
-* Nếu bạn đang gặp vấn đề về chứng chỉ khi cài đặt .NET Framework, vui lòng cập nhật [**Cập nhật chứng chỉ gốc đáng tin cậy Microsoft 2014**](https://support.microsoft.com/vi-vn/topic/h%E1%BB%97-tr%E1%BB%A3-kh%E1%BA%A9n-c%E1%BA%A5p-g%E1%BB%91c-tin-c%E1%BA%ADy-c%E1%BA%ADp-nh%E1%BA%ADt-ch%C6%B0%C6%A1ng-tr%C3%ACnh-ch%E1%BB%A9ng-ch%E1%BB%89-g%E1%BB%91c-windows-trong-windows-a4ac4d6c-7c62-3b6e-dfd2-377982bf3ea5).
-* Tham khảo mục [Bật .NET Framework](#b%E1%BA%ADt_net_framework) nếu bạn sử dụng Windows 10 trở lên.
+* Cài đặt **.NET Framework 4.8** tại [đây](https://go.microsoft.com/fwlink/?LinkId=2085155) (Trực tuyến) và [đây](https://go.microsoft.com/fwlink/?linkid=2088631) (Ngoại tuyến), chỉ cài đặt nếu bạn đang sử dụng **Windows 7 (Gói Dịch vụ 1), Windows 8.1 với Cập nhật 1 trở lên, Windows 10 (1607 - 1809)**. Tìm hiểu thêm tại [đây](https://support.microsoft.com/vi-vn/topic/microsoft-net-framework-4-8-gi%C3%A1n-tuy%E1%BA%BFn-c%C3%A0i-%C4%91%E1%BA%B7t-cho-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0).
+* Nếu bạn đang gặp vấn đề về chứng chỉ khi cài đặt .NET Framework, vui lòng cập nhật [**Chứng chỉ gốc đáng tin cậy Microsoft 2014**](https://support.microsoft.com/vi-vn/topic/h%E1%BB%97-tr%E1%BB%A3-kh%E1%BA%A9n-c%E1%BA%A5p-g%E1%BB%91c-tin-c%E1%BA%ADy-c%E1%BA%ADp-nh%E1%BA%ADt-ch%C6%B0%C6%A1ng-tr%C3%ACnh-ch%E1%BB%A9ng-ch%E1%BB%89-g%E1%BB%91c-windows-trong-windows-a4ac4d6c-7c62-3b6e-dfd2-377982bf3ea5).
+* Tham khảo mục [Bật .NET Framework](#bật_net_framework) nếu bạn sử dụng **Windows 10 (1903)** trở lên.
 
 ## Bật .NET Framework
 
