@@ -1,4 +1,4 @@
-# ehcHIS
+# HIS+
 * Tải xuống phần mềm tại **[đây](https://github.com/ngocna1409/ehc_public/releases/latest)**.
 
 ## Yêu cầu hệ thống
