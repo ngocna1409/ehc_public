@@ -30,6 +30,7 @@ Mặc định **.NET Framework** đã được bật sẵn khi cài đặt Windo
 
 #### Bước 3: Chẩn đoán
 * Nếu bị kẹt, hãy hoàn tất Windows Cập nhật trước.
+* Khởi động lại máy và bật lại. Hoặc tham khảo bật ở cách mở qua dòng lệnh.
 
 ### Cách 2: Mở Qua Dòng lệnh
 #### Cách 1: Qua Trình Triển khai và Quản lý ảnh đĩa.
